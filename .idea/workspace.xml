@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c288113b-a2bc-4098-bfc1-bfab9d1fad06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Builder/URL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Builder/URLBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Design_Pattern/Builder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Pattern/Builder/Main.java" afterDir="false" />
     </list>
