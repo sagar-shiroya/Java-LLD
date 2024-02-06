@@ -1,6 +1,6 @@
-package Facade;
+package Design_Pattern.Facade;
 
-//Facade - GameStarter
+//Design_Pattern.Facade - GameStarter
 public class GameStarter {
     private Computer computer;
     private GameSoftware gameSoftware;

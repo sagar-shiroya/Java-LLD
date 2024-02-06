@@ -1,4 +1,4 @@
-package Facade;
+package Design_Pattern.Facade;
 
 public class Computer {
     public void turnOn(){
