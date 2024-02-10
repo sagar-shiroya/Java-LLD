@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c288113b-a2bc-4098-bfc1-bfab9d1fad06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Observer/Investor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Observer/Observer.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Observer/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Observer/StockBroker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Observer/StockExchangeClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Strategy/AmazonShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Strategy/CCPaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Strategy/CardType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Strategy/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Strategy/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Strategy/UPIPaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Strategy/WalletPaymentStrategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,9 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="package-info" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -48,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AmazonShoppingCart.executor": "Run",
     "Application.DrawingApp.executor": "Run",
     "Application.GameApp.executor": "Run",
     "Application.Main.executor": "Run",
