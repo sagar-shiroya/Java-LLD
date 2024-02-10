@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c288113b-a2bc-4098-bfc1-bfab9d1fad06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Registry/NirmaUniversity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Registry/Prototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Registry/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Registry/StudentRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Observer/Investor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Observer/Observer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Observer/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Observer/StockBroker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Observer/StockExchangeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Observer/Subject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +54,7 @@
     "Application.NirmaUniversity.executor": "Run",
     "Application.PhonepeCustomer.executor": "Run",
     "Application.StarBucks.executor": "Run",
+    "Application.StockExchangeClient.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
