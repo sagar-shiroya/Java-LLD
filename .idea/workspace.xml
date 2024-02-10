@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c288113b-a2bc-4098-bfc1-bfab9d1fad06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Strategy/AmazonShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Strategy/CCPaymentStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Strategy/CardType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Strategy/PaymentStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Strategy/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Strategy/UPIPaymentStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Strategy/WalletPaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/SRP/EmailComposer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/SRP/EmailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/SRP/EmailSending.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
