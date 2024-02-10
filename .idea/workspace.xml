@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c288113b-a2bc-4098-bfc1-bfab9d1fad06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Decorator/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Decorator/MilkDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Decorator/PlainCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Decorator/StarBucks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Decorator/SugarDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Decorator/WhippedCreamDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Registry/NirmaUniversity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Registry/Prototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Registry/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Registry/StudentRegistry.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="package-info" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -37,7 +36,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2bg3qRqR9phrN7udLja6CZuUt2E" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,6 +48,7 @@
     "Application.DrawingApp.executor": "Run",
     "Application.GameApp.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.NirmaUniversity.executor": "Run",
     "Application.PhonepeCustomer.executor": "Run",
     "Application.StarBucks.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -55,7 +57,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Projects/JAVA/Learning-Java/src/Design_Pattern/Abstract_Factory",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
